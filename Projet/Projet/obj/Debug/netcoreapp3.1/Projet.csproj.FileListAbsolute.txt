@@ -1,0 +1,13 @@
+/Users/thomascuissart/Projects/Projet/Projet/obj/Debug/netcoreapp3.1/Projet.csproj.AssemblyReference.cache
+/Users/thomascuissart/Projects/Projet/Projet/obj/Debug/netcoreapp3.1/Projet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomascuissart/Projects/Projet/Projet/obj/Debug/netcoreapp3.1/Projet.AssemblyInfoInputs.cache
+/Users/thomascuissart/Projects/Projet/Projet/obj/Debug/netcoreapp3.1/Projet.AssemblyInfo.cs
+/Users/thomascuissart/Projects/Projet/Projet/obj/Debug/netcoreapp3.1/Projet.csproj.CoreCompileInputs.cache
+/Users/thomascuissart/Projects/Projet/Projet/bin/Debug/netcoreapp3.1/Projet.deps.json
+/Users/thomascuissart/Projects/Projet/Projet/bin/Debug/netcoreapp3.1/Projet.runtimeconfig.json
+/Users/thomascuissart/Projects/Projet/Projet/bin/Debug/netcoreapp3.1/Projet.runtimeconfig.dev.json
+/Users/thomascuissart/Projects/Projet/Projet/bin/Debug/netcoreapp3.1/Projet.dll
+/Users/thomascuissart/Projects/Projet/Projet/bin/Debug/netcoreapp3.1/Projet.pdb
+/Users/thomascuissart/Projects/Projet/Projet/obj/Debug/netcoreapp3.1/Projet.dll
+/Users/thomascuissart/Projects/Projet/Projet/obj/Debug/netcoreapp3.1/Projet.pdb
+/Users/thomascuissart/Projects/Projet/Projet/obj/Debug/netcoreapp3.1/Projet.genruntimeconfig.cache
